@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Regression, Classification
+Journey to mysterious island so-called " **Data Scientist** "
